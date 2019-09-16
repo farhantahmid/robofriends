@@ -1,3 +1,5 @@
+A web app created with React to list and search robots.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
